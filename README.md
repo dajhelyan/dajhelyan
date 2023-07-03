@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm D'ajhely Angles</h1>
-<h3 align="center">A full-stack developer Jr Batch #693 at Le Wagon.</h3>
-
-- 🔭 I’m currently working on [WeFindPets](http://www.wefindpets.online/)
+<h3 align="center">A full-stack developer Batch #693 at Le Wagon.</h3>
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
 - 📫 How to reach me **dajhelyangles@gmail.com**
 
-- 📄 Know about my experiences [D'ajhely CV](https://www.canva.com/design/DAEuBxho0bk/f1rfE0hoBWr2WgkgorjB8g/view?utm_content=DAEuBxho0bk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+- 📄 Know about my experiences [D'ajhely CV](file:///home/user/Downloads/D'ajhely-Angles-CV.docx.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
