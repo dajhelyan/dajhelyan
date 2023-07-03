@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **dajhelyangles@gmail.com**
 
-- 📄 Know about my experiences [D'ajhely CV]([[file:///home/user/Downloads/D'ajhely-Angles-CV.docx.pdf]()](https://drive.google.com/file/d/1oxIdAHMWnggHdfKCZmEAsKM4VLAu9FL5/view?usp=sharing))
+- 📄 Know about my experiences [D'ajhely CV](https://drive.google.com/file/d/1oxIdAHMWnggHdfKCZmEAsKM4VLAu9FL5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
